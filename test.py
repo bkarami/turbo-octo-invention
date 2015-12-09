@@ -1,1 +1,1 @@
-    assert print ("helllo 11")
+    assert print helllo 11
